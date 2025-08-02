@@ -4,7 +4,7 @@ A password manager project built with Python for learning and personal use.
 
 ## Description
 
-Building a command-line password manager to practice Python development and learn about security concepts. Will include encrypted password storage, authentication, and basic management features.
+A fun tech project to explore Python development and security concepts. Building a password manager with both command-line and frontend interfaces to get hands-on experience with encryption, file handling, CLI development, and UI design.
 
 ## Planned Features
 
@@ -13,6 +13,7 @@ Building a command-line password manager to practice Python development and lear
 - Add, retrieve, update, and delete passwords
 - Generate strong passwords
 - Command-line interface
+- Web/desktop frontend interface
 - Local storage (no cloud dependency)
 
 ## Tech Stack
